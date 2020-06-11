@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.answer{
+  padding-top: 20px;
+}
+
+.article{
+  text-transform: uppercase;
+  font-style: italic;
+}
